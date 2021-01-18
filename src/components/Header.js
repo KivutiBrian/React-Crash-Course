@@ -10,7 +10,7 @@ const Header = ({title})=>{
     //     alert("Mamayaoo")
     // }
     return (
-        <header className="Header">
+        <header className="header">
             
             {/* <h1 style={{ color: 'red' }}>test</h1> */}
             <h1>{title}</h1>
